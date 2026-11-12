@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d11d36a08caab1f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "233f1cb1560c4bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8e442049073a32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ae0856c4c4d196e",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fa2f2dafb6adcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e096b5eac2f40a1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "7d132a5916686704",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "24bad2e2fbd72ade",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.9453125
+  },
+  "right": {
+    "id": "0c11dbc475c245d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca61be62b03c40d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "768325bb7b392496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20261111095357.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "8ae62882073f4aa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas de Computação - Parte D.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f6a58066889cb0c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f40cb287bea320ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b746b768be2b1dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas de Computação - Parte D.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "7d8e442049073a32",
+  "lastOpenFiles": [
+    "zzzzz/Pasted image 20261112133105.png",
+    "Guia de Docker/Guia de Docker.md",
+    "zzzzz/Pasted image 20261112133017.png",
+    "zzzzz/Pasted image 20261112132958.png",
+    "zzzzz/Pasted image 20261112132941.png",
+    "zzzzz/Pasted image 20261112132920.png",
+    "zzzzz/Pasted image 20261112132848.png",
+    "zzzzz/Pasted image 20261112132828.png",
+    "zzzzz/Pasted image 20261112132754.png",
+    "Guia de GIT/Guia Completo de GIT.md",
+    "Guia de Docker",
+    "ESFCEX/6 - Arquivos e Banco de Dados/c) Modelagem de Dados.md",
+    "Guia de GIT",
+    "ESFCEX/6 - Arquivos e Banco de Dados/b) Sistemas Gerenciadores de Banco de Dados (SGBD).md",
+    "ESFCEX/4 - Técnicas de Programação/c) Programação Estruturada.md",
+    "ESFCEX/4 - Técnicas de Programação/b) Estrutura de Dados.md",
+    "ESFCEX/4 - Técnicas de Programação/a) Lógica Aplicada.md",
+    "ESFCEX/2 - Sistemas de Computação/b) Estrutura de Computadores.md",
+    "ESFCEX/2 - Sistemas de Computação/a) Representação da informação.md",
+    "ESFCEX/1 - Microinformática/a) Microinformática - Sistema Linux.md",
+    "Linguagem de Programação/C/1) Linguagem C.md",
+    "Redes de Computadores/Topologias de Redes.md",
+    "Redes de Computadores/Redes Wireless.md",
+    "Redes de Computadores/Redes de Computadores.md",
+    "Redes de Computadores/IPv6 - Guia Completo.md",
+    "Redes de Computadores/IPv4 - Guia Completo.md",
+    "Redes de Computadores/Fundamentos de Equipamentos de Redes.md",
+    "Redes de Computadores/Diferença entre IP Público e Privado.md",
+    "Redes de Computadores/Conversão de Decimal para Binário.md",
+    "Redes de Computadores/Cisco Packet Tracer - Exercicios.md",
+    "Redes de Computadores/Arquiteturas de Redes.md",
+    "Linux Journey/Networking Nomad/7 - DNS/6) Ferramentas de DNS.md",
+    "Linux Journey/Networking Nomad/7 - DNS/5) Configuração do DNS.md",
+    "Linux Journey/Networking Nomad/7 - DNS/4) etc-hosts.md",
+    "Linux Journey/Networking Nomad/7 - DNS/3) Processo do DNS.md",
+    "Linux Journey/Networking Nomad/7 - DNS",
+    "Linux Journey/Networking Nomad/6 - Resolução de Problemas",
+    "Linux Journey/Networking Nomad/5 - Configuração de Rede",
+    "Linux Journey/Networking Nomad/4 - Roteamento",
+    "Linux Journey/Networking Nomad/3 - Subnetting",
+    "Linux Journey/Networking Nomad/2 - Noções Básicas de Rede",
+    "Linux Journey/Networking Nomad/1 - Compartilhamento de Rede",
+    "Linux Journey/Networking Nomad",
+    "zzzzz/Pasted image 20261111142229.png",
+    "zzzzz/Pasted image 20261111142240.png"
+  ]
+}
